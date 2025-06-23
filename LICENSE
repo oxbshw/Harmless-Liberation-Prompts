@@ -1,0 +1,52 @@
+MIT License with Ethical Use Addendum
+
+Copyright (c) 2025 Harmless Liberation Prompts Contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+ETHICAL USE ADDENDUM:
+
+1. RESEARCH AND EDUCATIONAL PURPOSE ONLY: This Software is intended exclusively 
+   for academic research, educational purposes, and legitimate security testing 
+   of AI systems. Commercial use for the purpose of circumventing AI safety 
+   measures is prohibited.
+
+2. RESPONSIBLE DISCLOSURE: Users who discover vulnerabilities in AI systems 
+   using this Software are strongly encouraged to report these findings 
+   responsibly to the respective AI developers or vendors.
+
+3. PROHIBITION OF HARMFUL USE: The Software shall not be used to generate, 
+   distribute, or facilitate the creation of content that is:
+   - Illegal under applicable law
+   - Harmful to individuals or groups
+   - Designed to cause psychological, physical, or emotional harm
+   - Intended to spread misinformation or disinformation
+   - Violative of privacy rights
+
+4. NO WARRANTY FOR MALICIOUS USE: The copyright holders and contributors 
+   provide no warranty or support for any use of this Software that violates 
+   these ethical guidelines.
+
+5. COMPLIANCE WITH AI PROVIDER TERMS: Users must comply with the terms of 
+   service of any AI platform or service when using this Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+DISCLAIMER: The authors and contributors of this Software are not responsible 
+for any misuse of the contained prompts or techniques. Users assume full 
+responsibility for their actions and any consequences resulting from the use 
+of this Software.
